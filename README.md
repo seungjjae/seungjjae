@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?section=header&type=wave&text=Lee%20seungjae&color=auto)
 # About me
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
 - 🧑🏻‍💻 I'm majoring in Applied Statistics.
