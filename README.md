@@ -6,6 +6,7 @@
 - 🏆2024년 중앙대학교 경영경제대학 학술제 제5회 우수상
 # Certificate
 - ADsP
+- SQLD
 # Tech stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/R-276DC3?logo=R">
