@@ -4,6 +4,7 @@
 - 🧑🏻‍💻 I'm majoring in Applied Statistics.
 # Prize & Experience
 - 🏆2024년 중앙대학교 경영경제대학 학술제 제5회 우수상
+- 🏆제1회 중앙대학교 '너의 학과를 보여줘' 1등상 수상
 # Certificate
 - ADsP
 - SQLD
