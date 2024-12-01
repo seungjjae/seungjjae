@@ -3,11 +3,11 @@
 - 🏫 I'm currently studying at Chung-Ang University, in South Korea.
 - 🧑🏻‍💻 I'm majoring in Applied Statistics.
 # Prize & Experience
-- 🏆2024년 중앙대학교 경영경제대학 학술제 제5회 우수상
+- 🏆2024년 중앙대학교 경영경제대학 학술제 제5회 우수상  
 대화로그를 이용한 현금거래 유도성 채팅 적발
-- 🏆제1회 중앙대학교 '너의 학과를 보여줘' 1등상 수상
+- 🏆제1회 중앙대학교 '너의 학과를 보여줘' 1등상 수상  
 학과를 알리는 숏폼 제작
-- 🏆제3회 DArt-B 학술제 최우수상
+- 🏆제3회 DArt-B 학술제 최우수상  
 한국어 학습자를 위한 노래 추천 시스템
 # Certificate
 - ADsP
