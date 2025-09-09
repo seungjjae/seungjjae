@@ -25,7 +25,7 @@
 
 ## **Tech Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-3B5998?logo=IBM&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/SPSS-3B5998?logo=IBM&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/Colab-F9AB00?logo=GoogleColab&logoColor=white"> 
